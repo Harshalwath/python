@@ -13,7 +13,7 @@ elif(90> marks >= 80):
 
 elif(80> marks >= 70):
     print("grade C")
-    (print(good))
+    (printgood)
 
 elif(70> marks >=60):
     print("grade D")
