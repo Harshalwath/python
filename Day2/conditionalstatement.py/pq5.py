@@ -2,36 +2,23 @@
 
 num1 = float(input("enter first number:"))
 
-op= input(" enter operator")
-if(1.):
-    print("+")
+op= input(" Enter operator (+, -, *, /):")
 
-elif(2.):
-    print("-")
-
-elif(3.):
-    print("*")
-
-elif(4.):
-    print("/")
-
-else:
-    print("invalid")
 
 
 
 num2 = float(input("enter second number:"))
 
-if(1.):
+if op == "+":
     print("Result=", num1 + num2)
 
-elif(2.):
+elif op =="-":
     print("result", num1 - num2)
 
-elif(3.):
+elif op == "*":
     print("result", num1 * num2)
 
-elif(4.):
+elif op == "/":
     print("result", num1 / num2)
 
 else:
