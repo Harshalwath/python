@@ -1,4 +1,4 @@
-# Simple Calculator
+#Simple Calculator
 
 num1 = float(input("enter first number:"))
 
