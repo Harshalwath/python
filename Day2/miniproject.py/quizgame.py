@@ -31,8 +31,9 @@ if ans ==3:
     score +=1
 else:
     print("wrong!")
+    
 
-    print("\n 3.how many state present in india?")
+print("\n 3.how many state present in india?")
 print("1.32")
 print("2.24")
 print("3.27")
