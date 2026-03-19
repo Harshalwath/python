@@ -9,4 +9,9 @@ student ={
 }
 
 print(student.keys()) # key method
+
 print(len(student)) # for finding length
+
+print(list(student.values())) #value() method 
+
+print(student.items()) # it return all value in pair
