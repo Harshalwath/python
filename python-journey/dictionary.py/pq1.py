@@ -10,7 +10,7 @@ info["name"] = "rahul"
 info["surname"] = "wath"
 print(info)
 
-#dict. inside dict 
+#dict. inside dict (nested dictionary)
 
 student ={
     "name":"harshal wath",
@@ -21,5 +21,5 @@ student ={
 
     }
 }
-
-print(student)
+#here if we want to print only chem marks then use
+print(student["subject"]["chem"])
