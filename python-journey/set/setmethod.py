@@ -8,6 +8,6 @@ collection.remove(1)# set.remove() remove item from set.
 
 collection.clear() # set.clear() clear entire set.
 
-
+collection.pop() # set.pop() pop a random item from set.
 
 print(collection)
