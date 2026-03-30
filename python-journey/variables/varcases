@@ -1,0 +1,7 @@
+# 3 cases 
+
+HarahalWath = "me" # pascalcase 
+
+harshalWath = "me" # camel case 
+
+harshal_wath = "me"#snake case
