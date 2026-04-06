@@ -34,4 +34,4 @@ print(a > b ) #True
 #logical operator
 # &&
 # ||
-#!=
+# !=
