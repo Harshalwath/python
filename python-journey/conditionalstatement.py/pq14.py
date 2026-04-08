@@ -6,11 +6,16 @@ if unit <= 100:
     bill=unit *5
     print("your bill is",bill)
 
-elif unit > 100 <=200:
+elif unit <200:
 
     print("you need to pay 7 rs per unit")
- 
-elif unit > 200:
+    bill = unit*7
+    print("your bill is",bill)
+
+elif unit >200:
+
     print("you need to pay 10 rs per unit")
+    bill=unit*10
+    print("your bill is",bill)
 
 print("code ended")
